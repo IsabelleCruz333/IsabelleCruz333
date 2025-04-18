@@ -1,6 +1,5 @@
 # Olá, meu nome é Isabelle de Carvalho Cruz 👋  <br>
-
-# Conheça um pouco sobre mim:  <br>
+*Conheça um pouco sobre mim:*  <br>
 
 # Linguagens aprendidas:
 **1.** Python <br>
