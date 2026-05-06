@@ -1,30 +1,115 @@
-# Olá, meu nome é Isabelle de Carvalho Cruz 👋  <br>
-*Conheça um pouco sobre mim:*  <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isabelle%20Cruz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# Linguagens aprendidas:
-**1.** Python <br>
-**2.** Java <br>
-**3.** Javascript <br>
-**4.** MySQL <br>
-**5.** C++ <br>
+# 👋 Olá, eu sou Isabelle Cruz
 
-# Faculdades estudadas:
-**1.** FIAP <br>
-**2.** SPtech <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;AWS+%7C+Terraform+%7C+Docker;Always+learning+%F0%9F%9A%80" />
+</p>
 
-*Atualmente estou estudando Análise e Desenvolvimento de Sistemas na SPtech*  <br>
+💻 Desenvolvedora focada em **Cloud, DevOps e Segurança da Informação**
+🚀 Em constante evolução com **AWS, Terraform e automação de infraestrutura**
+🔐 Interesse especial em **segurança, redes e proteção de aplicações**
 
-# Curiosidades:
-**1.** Atualmente estou interessada em aprender linguagens de programação back-end <br>
-**2.** Estou aprendendo a programar em banco de dados MySQL <br>
-**3.** Procuro ajudar programadores iniciantes a ingressar na área <br>
+---
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+## 🐧 Linux Lifestyle
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleCruz333)
-<!---
-IsabelleCruz333/IsabelleCruz333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tux-Linux.gif" width="100" />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+* 🌎 Localização: Brasil
+* 📚 Estudando: AWS | Terraform | Docker | Cybersecurity
+* 🎯 Objetivo: atuar como **Cloud/DevOps Engineer**
+* ⚡ Mentalidade: entender *ataques e falhas* para construir sistemas mais seguros
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge\&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge\&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge\&logo=linux)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?style=for-the-badge\&logo=githubactions)
+
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabelleCruz333&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleCruz333&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleCruz333&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabelleCruz333&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧠 Skills em evolução (Radar)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsabelleCruz333&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabelleCruz333&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+🔹 Infraestrutura com Terraform (multi-ambiente)
+🔹 Deploy automatizado com GitHub Actions
+🔹 Aplicações containerizadas com Docker
+🔹 Práticas de segurança (firewall, proteção, testes)
+
+---
+
+## 🔐 Foco em Segurança
+
+* Hardening de servidores Linux
+* Controle de acesso e firewall
+* Proteção contra SQL Injection e ataques comuns
+* Testes de carga e análise de vulnerabilidades
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## ⚡ Frase que me guia
+
+> "Segurança não é um produto, é um processo." 🔐
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
+
