@@ -8,17 +8,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;AWS+%7C+Terraform+%7C+Docker;Always+learning+%F0%9F%9A%80" />
 </p>
 
-💻 Desenvolvedora focada em **Cloud, DevOps e Segurança da Informação**
-🚀 Em constante evolução com **AWS, Terraform e automação de infraestrutura**
-🔐 Interesse especial em **segurança, redes e proteção de aplicações**
+💻 Desenvolvedora focada em **Cloud, DevOps e Segurança da Informação** <br>
+🚀 Em constante evolução com **AWS, Terraform e automação de infraestrutura**  <br>
+🔐 Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
 ---
 
 ## 🐧 Linux Lifestyle
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tux-Linux.gif" width="100" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="320" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tux-Linux.gif" width="200" />
 </p>
 
 ---
@@ -34,13 +34,40 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 🎨 Frontend
+
+<p align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react)
+
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  
+![Python](https://img.shields.io/badge/Python-Language-blue?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-Language-red?style=for-the-badge\&logo=openjdk)
+  
+</p>
+
+### ☁️ DevOps & Cloud
+
 <p align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge\&logo=amazonaws)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge\&logo=terraform)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge\&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?style=for-the-badge\&logo=githubactions)
+
+</p>
+
+### 🔐 Security & Systems
+
+<p align="center">
+
+![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge\&logo=linux)
 
 </p>
 
@@ -78,10 +105,10 @@
 
 ## 🚀 Projetos em Destaque
 
-🔹 Infraestrutura com Terraform (multi-ambiente)
-🔹 Deploy automatizado com GitHub Actions
-🔹 Aplicações containerizadas com Docker
-🔹 Práticas de segurança (firewall, proteção, testes)
+🔹 Infraestrutura com Terraform (multi-ambiente) <br>
+🔹 Deploy automatizado com GitHub Actions <br>
+🔹 Aplicações containerizadas com Docker <br>
+🔹 Práticas de segurança (firewall, proteção, testes) <br>
 
 ---
 
@@ -112,4 +139,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </p>
-
