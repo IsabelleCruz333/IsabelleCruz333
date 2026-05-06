@@ -19,6 +19,11 @@
 **2.** Estou aprendendo a programar em banco de dados MySQL <br>
 **3.** Procuro ajudar programadores iniciantes a ingressar na área <br>
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleCruz333)
 <!---
 IsabelleCruz333/IsabelleCruz333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
