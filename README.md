@@ -1,40 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isabelle%20Cruz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff8fc7,100:ff69b4&height=200&section=header&text=Isabelle%20Cruz&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=twinkling&font=Pacifico"
+  />
 </p>
 
-# 👋 Olá, eu sou Isabelle Cruz
+# Olá, eu sou Isabelle Cruz
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;AWS+%7C+Terraform+%7C+Docker;Always+learning+%F0%9F%9A%80" />
 </p>
 
-💻 Desenvolvedora focada em **Cloud, DevOps e Segurança da Informação** <br>
-🚀 Em constante evolução com **AWS, Terraform e automação de infraestrutura**  <br>
-🔐 Interesse especial em **segurança, redes e proteção de aplicações**  <br>
+* Desenvolvedora focada em **Cloud, DevOps e Segurança da Informação** <br>
+* Em constante evolução com **AWS, Terraform e automação de infraestrutura**  <br>
+* Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
 ---
 
-## 🐧 Linux Lifestyle
+## Sobre mim
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="320" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tux-Linux.gif" width="200" />
-</p>
-
----
-
-## 🚀 Sobre mim
-
-* 🌎 Localização: Brasil
-* 📚 Estudando: AWS | Terraform | Docker | Cybersecurity
-* 🎯 Objetivo: atuar como **Cloud/DevOps Engineer**
-* ⚡ Mentalidade: entender *ataques e falhas* para construir sistemas mais seguros
+* Localização: Brasil
+* Estudando: AWS | Terraform | Docker | Cybersecurity
+* Objetivo: atuar como **Cloud/DevOps Engineer**
+* Mentalidade: entender *ataques e falhas* para construir sistemas mais seguros
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### 🎨 Frontend
+### Frontend
 
 <p align="center">
 
@@ -43,7 +36,7 @@
 
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="center">
   
@@ -52,7 +45,7 @@
   
 </p>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <p align="center">
 
@@ -63,7 +56,7 @@
 
 </p>
 
-### 🔐 Security & Systems
+### Security & Systems
 
 <p align="center">
 
@@ -73,7 +66,7 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleCruz333&theme=tokyonight" />
@@ -81,7 +74,7 @@
 
 ---
 
-## 📈 Gráfico de Contribuições
+## Gráfico de Contribuições
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabelleCruz333&theme=tokyo-night" />
@@ -89,7 +82,7 @@
 
 ---
 
-## 🧠 Skills em evolução (Radar)
+## Skills em evolução (Radar)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsabelleCruz333&theme=tokyonight" />
@@ -98,16 +91,16 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-🔹 Infraestrutura com Terraform (multi-ambiente) <br>
-🔹 Deploy automatizado com GitHub Actions <br>
-🔹 Aplicações containerizadas com Docker <br>
-🔹 Práticas de segurança (firewall, proteção, testes) <br>
+* Infraestrutura com Terraform (multi-ambiente) <br>
+* Deploy automatizado com GitHub Actions <br>
+* Aplicações containerizadas com Docker <br>
+* Práticas de segurança (firewall, proteção, testes) <br>
 
 ---
 
-## 🔐 Foco em Segurança
+## Foco em Segurança
 
 * Hardening de servidores Linux
 * Controle de acesso e firewall
@@ -116,21 +109,10 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
-
-## ⚡ Frase que me guia
-
-> "Segurança não é um produto, é um processo." 🔐
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-</p>
