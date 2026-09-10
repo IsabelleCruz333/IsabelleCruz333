@@ -27,7 +27,7 @@
 
 ## Tecnologias & Ferramentas
 
-### Frontend
+## Frontend
 
 <p align="center">
 
@@ -36,7 +36,7 @@
 
 </p>
 
-### Backend
+## Backend
 
 <p align="center">
   
@@ -45,7 +45,7 @@
   
 </p>
 
-### DevOps & Cloud
+## DevOps & Cloud
 
 <p align="center">
 
@@ -56,7 +56,7 @@
 
 </p>
 
-### Security & Systems
+## Security & Systems
 
 <p align="center">
 
