@@ -7,7 +7,7 @@
 # Olá, eu sou Isabelle Cruz
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;AWS+%7C+Terraform+%7C+Docker;Always+learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8a00c4&size=24&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;AWS+%7C+Terraform+%7C+Docker;Always+learning+%F0%9F%9A%80" />
 </p>
 
 * Desenvolvedora focada em **Cloud, DevOps e Segurança da Informação** <br>
