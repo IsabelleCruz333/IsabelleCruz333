@@ -14,7 +14,7 @@
 * Em constante evolução com **AWS, Terraform e automação de infraestrutura**  <br>
 * Interesse especial em **segurança, redes e proteção de aplicações**  <br>
 
--
+---
 
 ## Sobre mim
 
@@ -23,7 +23,7 @@
 * Objetivo: atuar como **Cloud/DevOps Engineer**
 * Mentalidade: entender *ataques e falhas* para construir sistemas mais seguros
 
--
+---
 
 ## Tecnologias & Ferramentas
 
@@ -64,7 +64,7 @@
 
 </p>
 
--
+---
 
 ## Conecte-se comigo
 
@@ -73,7 +73,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
--
+---
 
 ## Estatísticas GitHub
 
@@ -81,7 +81,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleCruz333&theme=tokyonight" />
 </p>
 
--
+---
 
 ## Skills em evolução (Radar)
 
@@ -90,7 +90,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabelleCruz333&theme=tokyonight" />
 </p>
 
--
+---
 
 ## Projetos em Destaque
 
@@ -99,7 +99,7 @@
 * Aplicações containerizadas com Docker <br>
 * Práticas de segurança (firewall, proteção, testes) <br>
 
--
+---
 
 ## Foco em Segurança
 
