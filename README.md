@@ -66,18 +66,19 @@
 
 ---
 
-## Estatísticas GitHub
+## Conecte-se comigo
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleCruz333&theme=tokyonight" />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-## Gráfico de Contribuições
+## Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabelleCruz333&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelleCruz333&theme=tokyonight" />
 </p>
 
 ---
@@ -107,12 +108,4 @@
 * Proteção contra SQL Injection e ataques comuns
 * Testes de carga e análise de vulnerabilidades
 
----
-
-## Conecte-se comigo
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
-</p>
 
