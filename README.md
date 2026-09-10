@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff8fc7,100:ff69b4&height=200&section=header&text=Isabelle%20Cruz&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=twinkling&font=Pacifico"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb6d9,50:ff8fc7,100:ff69b4&height=200&section=header&text=Isabelle%20Cruz&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=twinkling&font=Dancing%20Script"
   />
 </p>
 
